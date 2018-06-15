@@ -1,0 +1,1 @@
+This project is helpful to get started with learning how to use functions and your first game. Give it a try, it is really fun!
